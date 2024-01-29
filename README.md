@@ -22,7 +22,13 @@ This tool is designed to help web developers modularize their HTML files by extr
 
 ## Usage
 
-To use the HTML Modularization Tool, simply run the script and follow the prompts:
+To use the HTML Modularization Tool, simply install the requirements:
+
+```bash
+pip install -r requirements.txt
+```
+
+Then run the script and follow the prompts:
 
 ```bash
 python convert.py
